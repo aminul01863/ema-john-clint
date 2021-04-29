@@ -1,0 +1,10 @@
+
+.shipment-form input {
+  margin: auto;
+  display: flex;
+  margin-top: 1rem;
+  border-radius: 5px;
+}
+.error {
+  color: red;
+}

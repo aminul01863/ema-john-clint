@@ -1,0 +1,14 @@
+.order-remove-btn {
+  background-color: rgb(66, 66, 66);
+  color: white;
+  width: 150px;
+  height: 35px;
+  border: none;
+  box-shadow: 3px 3px 3px gray;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.order-remove-btn:hover {
+  background-color: rgba(235, 0, 0, 0.897);
+  color: white;
+}

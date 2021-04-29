@@ -1,0 +1,20 @@
+.containers {
+    text-align: center;
+    margin-left: 200px ;
+    margin-right: 200px;
+    color: white;
+    background-color: rgb(98, 177, 67);
+    border: 2px solid red;
+}
+.main-btn {
+    text-decoration: none !important;
+    background-color: rgb(56, 56, 255);
+    margin: 20px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.main-btn:hover {
+    background-color:#fd3636;
+}
